@@ -1,2 +1,2 @@
-#Spin the Wheel
-JavaScript wheel spinner to win prizes
+# Spin the Wheel
+Spin the wheel for a prize.
